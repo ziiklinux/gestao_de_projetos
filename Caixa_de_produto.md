@@ -2,7 +2,7 @@
 # LEAF Carbon Credits
 
 ## Frente:
-![Imagem do produto](https://miro.com/app/board/uXjVKTBOLnU=/?moveToWidget=3458764585908513135&cot=14)
+![Imagem do produto](https://github.com/ziiklinux/gestao_de_projetos/blob/main/Henrique%20Manoel%20Vieira.jpg?raw=true)
 
 ### **LEAF Carbon Credits**  
 #### _"Contribua para um futuro sustentável"_
