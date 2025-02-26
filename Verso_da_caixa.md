@@ -1,4 +1,3 @@
-```markdown
 # Lista de Tarefas por Funcionalidade
 
 ## 1. Compra de Créditos de Carbono
